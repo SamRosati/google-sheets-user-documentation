@@ -1,0 +1,74 @@
+site_name: NNS Session Docs
+site_url: https://samrosati.github.io/nns-session-documentation/
+theme:
+  name: material
+  logo: assets/NNSsessionLogoDarkMode.png
+  favicon: assets/NNSIconDarkOutline.png
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: octicons/sun-16
+        name: Dark mode
+      primary: indigo
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: octicons/moon-16
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+nav:
+  - Home: index.md
+  - Project Overview:
+      - Project Proposal: 1_Project_Overview/1_1_Project_Proposal.md
+      - Background & Context: 1_Project_Overview/1_2_Background_&_Context.md
+  - Product Strategy & Discovery:
+      - Market Analysis: 2_Product_Strategy_&_Discovery/2_1_Market_Analysis.md
+      - User Personas: 2_Product_Strategy_&_Discovery/2_2_User_Personas.md
+  - System Architecture:
+      - High-Level Design: 3_System_Architecture/3_1_High-Level_Design.md
+      - Codebase Structure & Optimization: 3_System_Architecture/3_2_Codebase_Structure_&_Optimization.md
+      - Database Schema: 3_System_Architecture/3_3_Database_Schema.md
+      - Native Strategy: 3_System_Architecture/3_4_Native_Strategy.md
+  - Feature Deep Dives:
+      - Skill Rating System: 4_Feature_Deep_Dives/4_1_Skill_Rating_System.md
+      - Tournament Wizard: 4_Feature_Deep_Dives/4_2_Tournament_Wizard.md
+      - Follower & Social System: 4_Feature_Deep_Dives/4_3_Follower_&_Social_System.md
+      - Clinics: 4_Feature_Deep_Dives/4_4_Clinics.md
+      - Tournaments: 4_Feature_Deep_Dives/4_5_Tournaments.md
+      - Sessions: 4_Feature_Deep_Dives/4_6_Sessions.md
+      - Messaging System: 4_Feature_Deep_Dives/4_7_Messaging_System.md
+  - Dev Log:
+      - Jan 2026 Summary: 5_Change_Logs/5_1_Jan_2026.md
+      - Tournament UI & Calendar Fixes: 5_Change_Logs/2025-12-02-tournament-ui-and-calendar-fixes.md
+      - Playoff Scheduling UI Integration: 5_Change_Logs/2025-12-04-playoff-scheduling-ui-integration.md
+      - Refining Session Details UI: 5_Change_Logs/2025-12-08-refining-session-details-ui.md
+      - Refactoring Context Providers: 5_Change_Logs/2025-12-17-refactoring-context-providers.md
+      - Debugging Auth & SW: 5_Change_Logs/2025-12-21-debugging-auth-and-sw.md
+      - Debugging Deployment 404 Errors: 5_Change_Logs/2025-12-24-debugging-deployment-404-errors.md
+      - Creating LLM Context Document: 5_Change_Logs/2026-01-02-creating-llm-context-document.md
+      - Implementing Rules Engine: 5_Change_Logs/2026-01-04-implementing-rules-engine.md
+      - Refining Configurator UI: 5_Change_Logs/2026-01-04-refining-configurator-ui.md
+      - Fixing Authentication Docs: 5_Change_Logs/2026-01-12-fixing-authentication-docs.md
+      - Firestore Read Optimization: 5_Change_Logs/2026-01-17-firestore-read-optimization.md
+      - Integrating New Assets URLs: 5_Change_Logs/2026-01-26-integrating-new-assets-urls.md
+      - Refining Background Context: 5_Change_Logs/2026-01-28-refining-background-context.md
+      - Security Rules Audit: 5_Change_Logs/2026-01-29-security-rules-audit.md
+  - AI Strategy: 6_AI_Strategy/6_1_AI_Strategy.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
