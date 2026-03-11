@@ -4,6 +4,8 @@ repo_url: https://github.com/SamRosati/google-sheets-user-documentation
 repo_name: google-sheets-user-documentation
 theme:
   name: material
+  logo: assets/google_sheets_logo.png
+  favicon: assets/google_sheets_logo.png
   palette:
     # Dark Mode
     - scheme: slate
