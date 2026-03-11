@@ -17,7 +17,7 @@ The instruction tasks in this documentation are designed to help users practice 
 
 ## Intended Audience
 
-This guide is written for entry-level to intermediate users. It is assumed that you have a basic familiarity with using a web browser and google account. No prior experience with computer programming or advanced math principles is required. This guide will build your knowledge from the ground up, starting with basic cell entry and moving toward more complicated data relationships.
+This guide is written for users with little to no experience. It is assumed that you have a basic familiarity with using a web browser and google account. No prior experience with computer programming or advanced math principles is required. This guide will build your knowledge from the ground up, starting with basic cell entry and moving toward more complicated data relationships.
 
 ## Documentation Conventions
 
