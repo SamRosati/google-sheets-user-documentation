@@ -24,7 +24,6 @@ theme:
       accent: light green
 
 nav:
-  - Home: index.md
   - Introduction: Introduction/index.md
   - Instructions:
       - Task 1: Instruction-Pages/task1.md
