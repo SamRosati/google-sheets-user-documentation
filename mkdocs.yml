@@ -12,16 +12,16 @@ theme:
       toggle:
         icon: octicons/sun-16
         name: Dark mode
-      primary: indigo
-      accent: deep purple
+      primary: green
+      accent: light green
 
     # Light Mode
     - scheme: default
       toggle:
         icon: octicons/moon-16
         name: Light mode
-      primary: blue
-      accent: deep orange
+      primary: green
+      accent: light green
 
 nav:
   - Home: index.md
