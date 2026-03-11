@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Google Sheets User Documentation. This guide will help you get started with some of the features and functionality available.
+Welcome to the Google Sheets User Documentation. This guide will help you get started with some of the features and functionality of Google Sheets.
 
 ## What is Google Sheets?
 
