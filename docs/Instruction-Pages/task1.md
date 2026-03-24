@@ -41,17 +41,24 @@ This will produce the result 60 in the cell where the formula is placed.
 This task teaches you how to let the software do math for you so you never have to use a handheld calculator for a list of numbers again.
 
 1. Click on cell **A1**.
+![alt text](image.png)
 2. Type the number `10` and press **Enter**.
+![alt text](image-1.png)
 3. In cell **A2**, type the number `20` and press **Enter**.
+![alt text](image-2.png)
 4. In cell **A3**, type the number `30` and press **Enter**.
+![alt text](image-3.png)
 5. Click on cell **A4** (this is where your total will go).
 6. Type the equals sign `=` on your keyboard.
 7. Type the word `SUM` in all caps.
+![alt text](image-4.png)
 8. Type an opening parenthesis `(`.
 9. Click and drag your mouse from cell **A1** down to **A3**.
 10. Type a closing parenthesis `)` and press **Enter**.
+![alt text](image-5.png)
 
 Your total will now appear in **A4**, and it will update automatically if any of the values in A1–A3 change.
+![alt text](image-6.png)
 
 ## Notes
 
