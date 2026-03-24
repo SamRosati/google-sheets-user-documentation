@@ -32,6 +32,8 @@ This guide is written for users with little to no experience. It is assumed that
 
 Throughout the instructions, you ill see specialized callouts. These are designed to keep you safe from data loss and provide tips for efficiency.
 
-💡 **TIP:** You can quickly fill as series of dates by clicking and dragging the blue square at the bottom-right corner of a selected cell.
+!!! tip "TIP"
+    You can quickly fill as series of dates by clicking and dragging the blue square at the bottom-right corner of a selected cell.
 
-⚠️ **CAUTION:** Deleting a sheet tab is permanent. Always ensure you have a backup or check the **Version History** before removing large blocks of data.
+!!! warning "CAUTION"
+    Deleting a sheet tab is permanent. Always ensure you have a backup or check the **Version History** before removing large blocks of data.

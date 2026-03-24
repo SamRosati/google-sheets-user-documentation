@@ -23,6 +23,11 @@ Imagine a list of 50 employees and their phone numbers. Without banding, the whi
 
 1. **Click and drag** your mouse to highlight the specific range of cells that contains your data.
 ![alt text](image-7.png)
+
+    !!! warning "Select The Right Data"
+        When applying alternating colors, Google Sheets shades **only the range you highlight**.  
+        Make sure you select the exact rows you want to format before opening the menu.
+
 2. Move your cursor to the top **Menu Bar**.
 3. Click on the **Format** tab to open the dropdown menu.
 ![alt text](image-8.png)
@@ -40,3 +45,7 @@ Imagine a list of 50 employees and their phone numbers. Without banding, the whi
 ![alt text](image-14.png)
 10. Click the **Done** button at the bottom of the side panel to save your changes.
 ![alt text](image-15.png)
+
+    !!! tip "Styles Update Automatically"
+        If you add new rows inside your formatted range, Google Sheets will **extend the alternating colors automatically**.  
+        You don’t need to reapply the style.

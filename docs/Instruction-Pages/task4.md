@@ -8,11 +8,19 @@ Data imported from websites or other documents often contains "hidden" spaces at
 
 In computing, "whitespace" refers to any character that represents horizontal or vertical space (like hitting the spacebar or the tab key). While invisible, Google Sheets treats "Apple" and " Apple " (with a space) as two completely different pieces of data. Trimming ensures your data is uniform and "clean."
 
+!!! tip "Whitespace Is Invisible"
+    Extra spaces are hard to spot with your eyes, but Google Sheets treats them as real characters.  
+    Trimming helps ensure your data behaves consistently in formulas and sorting.
+
 ## Example
 
 - **Original Data:**  `$150.00`
 - **After Trim:** `$150.00`
 The extra gaps are removed, but the space *between* words (like "John Smith") is preserved.
+
+!!! tip "Trim is Safe"
+    The Trim whitespace tool only removes **leading and trailing spaces**.  
+    It will not delete the space between first and last names or between normal words.
 
 ## Instructions
 
@@ -31,3 +39,7 @@ The extra gaps are removed, but the space *between* words (like "John Smith") is
 9. Wait for the **pop-up notification** to appear, telling you how many cells were cleaned.
 ![alt text](image-26.png)
 10. Click **OK** on the notification to return to your perfectly formatted cell.
+
+    !!! tip "Trim Helps Fix Sorting Problems"
+        If your data refuses to sort correctly, hidden spaces are often the cause.  
+        Running **Trim whitespace** is a quick way to fix unexpected sorting behavior.
