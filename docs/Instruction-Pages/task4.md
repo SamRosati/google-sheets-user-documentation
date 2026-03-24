@@ -17,12 +17,17 @@ The extra gaps are removed, but the space *between* words (like "John Smith") is
 ## Instructions
 
 1. **Click on cell B1** to select it for this exercise.
+![alt text](image-22.png)
 2. Press the **Spacebar three times**, type the word `Hello`, and press the **Spacebar three more times**.
 3. Press **Enter** to commit the text to the cell.
+![alt text](image-23.png)
 4. Click back on **cell B1**—notice how the text looks off-center because of the extra spaces.
+![alt text](image-24.png)
 5. Move your cursor to the top **Menu Bar**.
 6. Click on the **Data** tab.
 7. Hover your mouse over the **Data cleanup** option.
 8. Select **Trim whitespace** from the sub-menu.
+![alt text](image-25.png)
 9. Wait for the **pop-up notification** to appear, telling you how many cells were cleaned.
+![alt text](image-26.png)
 10. Click **OK** on the notification to return to your perfectly formatted cell.
