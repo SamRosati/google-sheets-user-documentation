@@ -29,7 +29,8 @@ If you have a list of 200 grocery items, by the time you reach item #150, you mi
 6. Look closely at the line between Row 1 and Row 2; you will notice a **thick grey divider line** has appeared.
 ![alt text](image-19.png)
 
-    !!! tip "What the Grey Line Means" The grey divider indicates the frozen section.
+    !!! tip "What the Grey Line Means"
+        The grey divider indicates the frozen section.  
         Everything above the line stays visible while you scroll.
 
 7. Click on any empty cell in the middle of your sheet to deselect the row.
