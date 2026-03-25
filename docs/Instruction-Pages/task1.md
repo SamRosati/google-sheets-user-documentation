@@ -41,7 +41,7 @@ This will produce the result 60 in the cell where the formula is placed.
 This task teaches you how to let the software do math for you so you never have to use a handheld calculator for a list of numbers again.
 
 1. Click on cell **A1**.
-![alt text](image.png)
+![Cell A1 highlighted](image.png)
 2. Type the number `10` and press **Enter**.
 ![alt text](image-1.png)
 3. In cell **A2**, type the number `20` and press **Enter**.
