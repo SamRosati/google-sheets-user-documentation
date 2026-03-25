@@ -64,6 +64,9 @@ This task teaches you how to let the software do math for you so you never have 
 9. Click and drag your mouse from cell **A1** down to **A3**.
 10. Type a closing parenthesis `)` and press **Enter**.
 ![Summing cells A1 - A3](image-5.png "Summing cells A1 - A3")
-
-Your total will now appear in **A4**, and it will update automatically if any of the values in A1–A3 change.
+11. Your total will now appear in **A4**, and it will update automatically if any of the values in A1–A3 change.
 ![final sum result](image-6.png "final sum result")
+
+## Conclusion
+
+By completing this task, you’ve learned the core skill that every spreadsheet user relies on: letting Google Sheets perform calculations automatically. Using the SUM() function not only saves time but also ensures your totals stay accurate even as your data changes. This foundation will support every future task you take on, from simple lists to full data analysis. Now that you understand how formulas work and how to enter them correctly, you’re ready to build more powerful and dynamic spreadsheets with confidence.
