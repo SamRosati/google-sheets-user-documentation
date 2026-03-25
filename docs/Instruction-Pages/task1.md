@@ -20,6 +20,10 @@ This tells Google Sheets: “Add the values from A1 through A3.”
 
 Using formulas ensures your totals stay correct even when the data changes without any recalculations or mistakes.
 
+!!! tip "Formula Rule"
+    In Google Sheets, **every formula must start with `=`**.  
+    If you leave out the equals sign, Sheets will treat your entry as plain text instead of calculating it.
+
 ## Example
 
 Suppose you have three numbers in cells A1, A2, and A3:
@@ -35,6 +39,10 @@ Entering the formula:
 =SUM(A1:A3)
 
 This will produce the result 60 in the cell where the formula is placed.
+
+!!! warning "Enter The Correct Type"
+    If a cell contains text like `"10"` instead of the number `10`, the SUM() function will ignore it.  
+    Make sure your values are formatted as numbers.
 
 ## Instructions
 
@@ -60,6 +68,5 @@ This task teaches you how to let the software do math for you so you never have 
 Your total will now appear in **A4**, and it will update automatically if any of the values in A1–A3 change.
 ![alt text](image-6.png)
 
-## Notes
 
-Formulas always begin with = . Without it, Google Sheets will treat the text as plain data.
+
