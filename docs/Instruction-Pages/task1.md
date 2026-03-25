@@ -49,21 +49,21 @@ This will produce the result 60 in the cell where the formula is placed.
 This task teaches you how to let the software do math for you so you never have to use a handheld calculator for a list of numbers again.
 
 1. Click on cell **A1**.
-![Cell A1 highlighted](image.png)
+![Cell A1 highlighted](image.png "Cell A1 highlighted")
 2. Type the number `10` and press **Enter**.
-![Cell A1 with number 10 inputted](image-1.png)
+![Cell A1 with number 10 inputted](image-1.png "Cell A1 with number 10 inputted")
 3. In cell **A2**, type the number `20` and press **Enter**.
-![Cells A1 and A2 with 10 and 20 respectively](image-2.png)
+![Cells A1 and A2 with 10 and 20 respectively](image-2.png "Cells A1 and A2 with 10 and 20 respectively")
 4. In cell **A3**, type the number `30` and press **Enter**.
-![30 inputted into A3](image-3.png)
+![30 inputted into A3](image-3.png "30 inputted into A3")
 5. Click on cell **A4** (this is where your total will go).
 6. Type the equals sign `=` on your keyboard.
 7. Type the word `SUM` in all caps.
-![=SUM typed into A4](image-4.png)
+![=SUM typed into A4](image-4.png "=SUM typed into A4")
 8. Type an opening parenthesis `(`.
 9. Click and drag your mouse from cell **A1** down to **A3**.
 10. Type a closing parenthesis `)` and press **Enter**.
-![Summing cells A1 - A3](image-5.png)
+![Summing cells A1 - A3](image-5.png "Summing cells A1 - A3")
 
 Your total will now appear in **A4**, and it will update automatically if any of the values in A1–A3 change.
-![final sum result](image-6.png)
+![final sum result](image-6.png "final sum result")

@@ -19,15 +19,15 @@ If you have a list of 200 grocery items, by the time you reach item #150, you mi
 ## Instructions
 
 1. Move your mouse to the far left of the screen and **click the number 1** to highlight the entire first row.
-![alt text](image-16.png)
+![Row 1 Selected](image-16.png "Row 1 Selected")
 2. Move your cursor to the top **Menu Bar**.
 3. Click on the **View** tab.
-![alt text](image-17.png)
+![View tab open](image-17.png "View tab open")
 4. Hover your mouse over the first option, **Freeze**.
 5. In the side menu that appears, click on **1 row**.
-![alt text](image-18.png)
+![View > Freeze > 1 row](image-18.png "View > Freeze > 1 row")
 6. Look closely at the line between Row 1 and Row 2; you will notice a **thick grey divider line** has appeared.
-![alt text](image-19.png)
+![Row one Frozen - thick line displays](image-19.png "Row one Frozen - thick line displays")
 
     !!! tip "What the Grey Line Means"
         The grey divider indicates the frozen section.  
@@ -35,12 +35,11 @@ If you have a list of 200 grocery items, by the time you reach item #150, you mi
 
 7. Click on any empty cell in the middle of your sheet to deselect the row.
 8. Use your mouse wheel or trackpad to **scroll down** toward Row 50 or 100.
-![alt text](image-20.png)
+![Spreadsheet scrolled down demonstrating Freeze row functionality](image-20.png "Spreadsheet scrolled down demonstrating Freeze row functionality")
 9. Observe that **Row 1 stays fixed** at the top of the screen while the other numbers scroll underneath it.
 10. To unlock the row later, navigate back to **View** > **Freeze** > **No rows**.
-![alt text](image-21.png)
+![Menu opened to unfreeze rows](image-21.png "Menu opened to unfreeze rows")
 
     !!! tip "Unfreezing is Safe"
         Choosing No rows simply removes the frozen view.  
         Your data, formatting, and formulas remain untouched.
-
