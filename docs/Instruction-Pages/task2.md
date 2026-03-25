@@ -22,7 +22,7 @@ Imagine a list of 50 employees and their phone numbers. Without banding, the whi
 ## Instructions
 
 1. **Click and drag** your mouse to highlight the specific range of cells that contains your data.
-![alt text](image-7.png)
+![Spreadsheet with data is column A](image-7.png)
 
     !!! warning "Select The Right Data"
         When applying alternating colors, Google Sheets shades **only the range you highlight**.  
@@ -30,21 +30,21 @@ Imagine a list of 50 employees and their phone numbers. Without banding, the whi
 
 2. Move your cursor to the top **Menu Bar**.
 3. Click on the **Format** tab to open the dropdown menu.
-![alt text](image-8.png)
+![Data highlighted, and format menu open](image-8.png)
 4. Scroll down and select **Alternating colors**.
-![alt text](image-9.png)
+![Alternating colors selected](image-9.png)
 5. Observe the **Alternating colors** settings panel that appears on the right side of the screen.
-![alt text](image-10.png)
+![Alternating colors panel open](image-10.png)
 6. Under the **Styles** section, click on a color preset (e.g., Blue, Green, or Grey) that matches your preference.
-![alt text](image-11.png)
+![Color panels open, option to select color](image-11.png)
 7. Check the box labeled **Header** if your top row contains titles or labels.
-![alt text](image-12.png)
+![Header checkbox checked in color panel](image-12.png)
 8. Check the box labeled **Footer** if you want the very last row to have a distinct summary color.
-![alt text](image-13.png)
+![Footer checkbox checked in color panel](image-13.png)
 9. Review the "Apply to range" box at the top of the panel to ensure it covers your entire dataset.
-![alt text](image-14.png)
+!["Apply to range" section of alternating colors panel shown](image-14.png)
 10. Click the **Done** button at the bottom of the side panel to save your changes.
-![alt text](image-15.png)
+![Selecting "Done"](image-15.png)
 
     !!! tip "Styles Update Automatically"
         If you add new rows inside your formatted range, Google Sheets will **extend the alternating colors automatically**.  
